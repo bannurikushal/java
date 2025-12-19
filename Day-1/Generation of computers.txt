@@ -1,0 +1,35 @@
+                              Generation of computers!
+First Generation of computers:
+                                =>1st genereration of computers are known as machine language. 
+                                =>Which understand only binary numbers(0's&1's).
+                                =>No need any translate.
+Advantages:
+           =>Easy to communicate to computer.
+           =>It takes less time to communicate.
+Disadvantages:
+            =>Difficult to understand the binary language.
+            =>Difficult to debug the program.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Second generation of computers:
+                              =>2nd generation of computers also low level language.
+                              =>The program consists of "Mnemonics".
+                              =>it as translator known as "Assembler".
+Advantages:
+          =>user can understand the output.
+          =>Easy to identify the errors.
+Disadvantages:
+             =>Translator is required.
+             =>It takes more time to communicate to computer.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Third generation of computers:
+                             =>3rd generation of computer some time known as Low level language & High level language.
+                             =>C program is 3rd generation program.
+                             =>It as compiler to compile the program.
+Advantages:
+          =>Easy to write the program.
+          =>The program contains the some basic English words.
+Disadvantages:
+            =>It has less efficiency.
+            =>It depends on compilers & interpreters.
