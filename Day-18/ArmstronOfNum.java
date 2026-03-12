@@ -17,6 +17,7 @@ public class ArmstronOfNum {
         if (result == backup) {
             System.out.println("It is a Armstrong");
         } else {
+        
             System.out.println("It is not a Armstrong");
         }
     }
