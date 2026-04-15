@@ -14,7 +14,7 @@ public class InsertionArray {
         }
         InsertionArray(arr);
         System.out.println("Sort of Array:");
-        for (int i=0;i< args.length-1;i++){
+        for (int i=0;i< args.length;i++){
             System.out.print(arr[i]+" ");
         }
     }
