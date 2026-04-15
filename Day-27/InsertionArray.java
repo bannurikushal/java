@@ -9,7 +9,7 @@ public class InsertionArray {
         int size= sc.nextInt();
         int []arr=new int[size];
         System.out.println("Enter the elements Array:");
-        for (int i=0;i< arr.length-1;i++) {
+        for (int i=0;i< arr.length;i++) {
             arr[i] = sc.nextInt();
         }
         InsertionArray(arr);
