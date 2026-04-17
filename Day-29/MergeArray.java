@@ -26,7 +26,7 @@ public class MergeArray {
         int i = 0;
         int j = 0;
         int k = 0;
-        while (i < arr1.length && j < arr2.length) {
+        while (i > arr1.length && j < arr2.length) {
             if (arr1[i] < arr2[j]) {
                 output[k] = arr1[i];
                 i++;
