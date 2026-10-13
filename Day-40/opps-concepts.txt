@@ -1,0 +1,52 @@
+Java OOP(Object Oriented Programming) Concepts
+
+Object-Oriented Programming (OOP) is a programming paradigm based on the 
+concept of objects that contain data (fields) and behavior (methods). 
+It focuses on designing software that closely represents real-world entities. 
+It is used to:
+
+=>Improves code reusability
+=>Enhances maintainability and scalability
+=>Makes programs easier to understand and manage
+
+```````````````````````````````````````````````````````````````````````````````````````````
+Characteristics of OOP
+
+1>Class
+2>Object
+3>Encapsulation
+4>Abstraction
+5>Polymorphism
+6>Inheritance
+
+````````````````````````````````````````````````````````````````````````````````````````
+1>Class:
+
+         A Class in Java is a blueprint or template used to create objects. 
+         It defines the properties (data) and behaviors (methods) that objects 
+         of that class will have.
+
+         =>A class is a user-defined data type.
+        =>It contains variables (fields) and methods.
+        =>Multiple objects can be created from a single class.
+
+Example:
+    
+       A Car represents a class (blueprint), while BMW, Mercedes, and Audi 
+       represent objects (instances) created from that class.
+
+``````````````````````````````````````````````````````````````````````````````````````````````
+
+2>Object:
+            
+     An Object in Java is an instance of a class that represents a real-world entity. 
+     It is used to access the variables and methods defined inside a class.
+
+     =>State: Represents the current data or attributes of an object.
+    =>Behavior: Represents the actions that an object can perform.
+    =>Identity:Every object has a unique identity in memory that distinguishes 
+    it from other objects, even if they contain the same data.
+
+Example:
+       
+       Dog is a class, Tommy is an object of that class.
