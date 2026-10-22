@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background-image: url(assets/Background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Head-line {
+  height: 84px;
+  width: 550px;
+  display: flex;
+  margin-left: 750px;
+  margin-top: 115px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 20px;
+}
+form {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.form-container {
+  width: 550px;
+  background-color: white;
+  height: 1000px;
+  margin-left: 750px;
+}
+.text-container {
+}
+input {
+  border: solid 1px skyblue;
+
+  padding: 10px;
+  width: 490px;
+}
+label {
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
+  color: #495057;
+}
+.password {
+  width: 230px;
+}
+.password-container {
+  display: flex;
+  gap: 32px;
+}
